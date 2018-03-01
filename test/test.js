@@ -10,7 +10,7 @@ it('Should produce report with colors', function () {
     report   = normalizeNewline(report).trim();
     expected = normalizeNewline(expected).trim();
 
-    //assert.strictEqual(report, expected);
+    assert.strictEqual(report, expected);
 });
 
 it('Should produce report without colors', function () {
