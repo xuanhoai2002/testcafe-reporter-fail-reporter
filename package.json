@@ -4,8 +4,8 @@
   "description": "fail-reporter TestCafe reporter plugin.",
   "repository": "https://github.com/xuanhoai2002/testcafe-reporter-fail-reporter",
   "author": {
-    "name": "fjn_diem_ntt",
-    "email": "fjn_diem_ntt@sysmail.stg.honto.jp",
+    "name": "tester",
+    "email": "tester@tester",
     "url": "https://github.com/xuanhoai2002"
   },
   "main": "lib/index",

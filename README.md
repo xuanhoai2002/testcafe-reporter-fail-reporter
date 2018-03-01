@@ -15,7 +15,7 @@ npm install testcafe-reporter-fail-reporter
 
 ## Usage
 
-When you run tests from the command line, specify the reporter name by using the `--reporter` option:
+When you run tests from the command line, specify the reporter name by using the `--reporter` option
 
 ```
 testcafe chrome 'path/to/test/file.js' --reporter fail-reporter
